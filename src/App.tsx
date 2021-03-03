@@ -1,12 +1,18 @@
 import React from "react";
-// import './App.css';
 
-class App extends React.Component {
+interface IModeProps {}
+
+interface IModeState {}
+
+interface IAppProps {}
+
+interface IAppState {}
+
+class App extends React.Component<IAppProps, IAppState> {
   render() {
     return (
       <div>
-        <h1>Welcome to BetterCaptcha.</h1>
-        <p>Coming soon.</p>
+        <p>hello</p>
       </div>
     );
   }
