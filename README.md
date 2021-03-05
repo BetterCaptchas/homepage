@@ -2,4 +2,4 @@
 
 > The face of BetterCaptcha, on the web.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a917fb73-ea61-41a1-92f0-61c5e5dbf195/deploy-status)](https://app.netlify.com/sites/bettercaptcha/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/47f66b69-4486-41aa-a88c-f68f9e2cef3b/deploy-status)](https://app.netlify.com/sites/bettercaptcha/deploys)
