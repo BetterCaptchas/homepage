@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Link from 'next/link'
 
 
 export default function Home() {
@@ -12,23 +11,11 @@ export default function Home() {
 
       <main>
         <h1 className="title Gradient">
-          Hello.
+          404
         </h1>
 
         <p className="description">
-          My goal is to provide a no bullshit authentication solution for 
-          <br></br>
-          Discord servers and its members. 
-          <br></br>
-          <br></br>
-          Transparency is key. We pledge to collect as less user 
-          <br></br>
-          data as possible. That's why we're open-source, <Link href="https://github.com/bettercaptcha" replace>
-  <a><i>here.</i></a>
-</Link>
-          <br></br>
-          <br></br>          
-          Coming soon to Discord.
+          Sorry, we couldn't find the requested page.
         </p>
       </main>
 
